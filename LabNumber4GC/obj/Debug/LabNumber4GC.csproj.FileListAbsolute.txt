@@ -1,0 +1,7 @@
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\bin\Debug\LabNumber4GC.exe.config
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\bin\Debug\LabNumber4GC.exe
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\bin\Debug\LabNumber4GC.pdb
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\obj\Debug\LabNumber4GC.csprojResolveAssemblyReference.cache
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\obj\Debug\LabNumber4GC.csproj.CoreCompileInputs.cache
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\obj\Debug\LabNumber4GC.exe
+c:\users\rayab\source\repos\LabNumber4GC\LabNumber4GC\obj\Debug\LabNumber4GC.pdb
